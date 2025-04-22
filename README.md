@@ -2,8 +2,6 @@
 
 Este proyecto es una demostración de un componente de React que simula las tarjetas de seguimiento de usuarios de Twitter (ahora X). El componente muestra información de un usuario, su avatar y un botón para seguir/dejar de seguir.
 
-![Twitter Follow Card Preview](https://i.imgur.com/P6XERj2.png)
-
 ## Características
 
 - Componente reutilizable para mostrar tarjetas de usuarios
